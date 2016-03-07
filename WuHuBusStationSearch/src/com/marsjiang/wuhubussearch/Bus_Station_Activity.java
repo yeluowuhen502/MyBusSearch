@@ -1,5 +1,5 @@
-﻿package com.marsjiang.wuhubussearch;
-//Test
+package com.marsjiang.wuhubussearch;
+
 import java.io.UnsupportedEncodingException;
 
 import org.apache.http.entity.StringEntity;
